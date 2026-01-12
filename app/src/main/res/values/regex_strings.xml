@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="regex_alphanumerics_with_space" translatable="false">[a-zA-Z 0-9]+</string>
+    <string name="regex_numerical_value" translatable="false">[0-9]+</string>
+    <string name="regex_alphabets_with_spaces" translatable="false">[a-zA-Z ]+</string>
+    <string name="regex_alphanumerics_without_space" translatable="false">[a-zA-Z0-9]+</string>
+    <string name="regex_alphanumerics_with_asterisk" translatable="false">[a-zA-Z 0-9* ]+</string>
+    <string name="regex_special_chars" translatable="false">[a-zA-Z 0-9*@$#^.]+</string>
+</resources>

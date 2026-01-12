@@ -21,4 +21,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "SingleActivityWithMultiNavGraphs"
 include(":app")
+include(":uikit")
+include(":networkmodule")
  

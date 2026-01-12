@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_activity_auth_screen">AuthScreenActivity</string>
+    <string name="auth_create_account">Create Account</string>
+    <string name="auth_login">Login</string>
+    <string name="auth_enter_code">Enter Code</string>
+    <string name="auth_send">Send</string>
+    <string name="auth_forgot_pwd">Forgot Password?</string>
+    <string name="auth_register">Register</string>
+    <string name="auth_hint_username">User Name</string>
+    <string name="auth_hint_email">Email</string>
+    <string name="auth_hint_password">Password</string>
+    <string name="auth_hint_phone">960000000000</string>
+    <string name="auth_new_user">New User</string>
+    <string name="auth_sign_up">Sign Up</string>
+    <string name="auth_invalid_credentials">Invalid Credentials</string>
+    <string name="auth_enter_all_fields">Enter all fields</string>
+</resources>
